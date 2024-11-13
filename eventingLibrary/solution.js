@@ -148,3 +148,23 @@ var mixEvents = function(obj) {
 var mixEvents = function(obj) {
   return obj;
 };
+
+var mixEvents = function(obj) {
+  return obj;
+};
+
+var mixEvents = function(obj) {
+  return obj;
+};
+
+var mixEvents = function(obj) {
+  return obj;
+};
+
+var mixEvents = function(obj) {
+  return obj;
+};
+
+var mixEvents = function(obj) {
+  return obj;
+};
