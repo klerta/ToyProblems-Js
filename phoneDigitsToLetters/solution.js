@@ -31,5 +31,5 @@ const telephoneWords = function(digitString) {
   backtrack('', 0);
   return result;
 };
-````
+
 module.exports = telephoneWords;
